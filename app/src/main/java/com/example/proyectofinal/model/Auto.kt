@@ -1,4 +1,6 @@
 package com.example.proyectofinal.model
 
-class Auto {
+open class Auto (
+    val Npuertas: Int
+    ){
 }

@@ -1,4 +1,8 @@
 package com.example.proyectofinal.model
 
-class Automovil {
+open class Automovil (
+    val modelo: String,
+    val marca: String,
+    val color: String,
+    val año: String ){
 }
