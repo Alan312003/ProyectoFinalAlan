@@ -1,6 +1,6 @@
 package com.example.proyectofinal.model
 
-open class Automovil (
+class Automovil (
     val modelo: String,
     val marca: String,
     val color: String,

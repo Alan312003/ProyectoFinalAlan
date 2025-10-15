@@ -1,5 +1,5 @@
 package com.example.proyectofinal.model
 
-open class Moto(
+class Moto(
     val cc: Int ) {
 }
